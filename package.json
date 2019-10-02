@@ -1,0 +1,25 @@
+{
+  "name": "burritojs",
+  "version": "1.0.0",
+  "description": "Create and authorize you application the same way you would a burrito.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icirellik/burritojs.git"
+  },
+  "keywords": [
+    "Authorization",
+    "Feature",
+    "Flag",
+    "Enable"
+  ],
+  "author": "Cameron Rollheiser <icirellik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icirellik/burritojs/issues"
+  },
+  "homepage": "https://github.com/icirellik/burritojs#readme"
+}
